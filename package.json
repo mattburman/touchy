@@ -1,0 +1,19 @@
+{
+  "name": "touchy",
+  "version": "1.0.0",
+  "description": "The touchbar button manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mattburman/touchy.git"
+  },
+  "author": "Matt Burman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattburman/touchy/issues"
+  },
+  "homepage": "https://github.com/mattburman/touchy#readme"
+}
