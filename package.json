@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mattburman/touchy/issues"
   },
-  "homepage": "https://github.com/mattburman/touchy#readme"
+  "homepage": "https://github.com/mattburman/touchy#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
